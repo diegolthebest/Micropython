@@ -2,9 +2,9 @@
 Micropython libraries and examples for PicoW
 
 ## Copyright & Licensing
-Copyright (C) 2023-2024 Diego Lucero <dlfacio07@gmail.com> 
+Copyright (C) 2023-2024 Jeanette Circe <Jett@circe.com> 
 
-Copyright (C) 2023-2024 Diego Lucero <dlfacio07@gmail.com> 
+Copyright (C) 2024 Diego Lucero <dlfacio07@gmail.com> 
 
 
 Distributed under the [GPLv3] or later.
